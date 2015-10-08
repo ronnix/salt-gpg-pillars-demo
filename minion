@@ -1,0 +1,5 @@
+# Masterless
+file_client: local
+
+# Enable GPG renderer to support encrypted pillars
+#renderer: jinja | yaml | gpg
